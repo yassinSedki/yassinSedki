@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hi, I'm Yassin Sedki</h1>
-<h3 align="center">AI Engineer in Training | Software Engineering Student @ ISIMS</h3>
+<h3 align="center">AI Engineer in Training | Software Engineering Student</h3>
 <p align="center">
   <a href="mailto:sedkiyassin19@gmail.com">📧 sedkiyassin19@gmail.com</a> • 
   <a href="https://linkedin.com/in/yassin-sedki-a2657b252">💼 LinkedIn</a> • 
