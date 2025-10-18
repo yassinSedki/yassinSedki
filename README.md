@@ -18,18 +18,7 @@
 
 ---
 
-### 💼 Professional Experience
 
-**AI Engineer Intern** — *Attoflow Consulting* (06/2025 – 08/2025)  
-> Architected an **agentic RAG system** using **LangGraph**, **ChromaDB**, and **multi-agent orchestration**, optimizing secure and contextual LLM retrieval.
-
-**Part-Time Software Engineer** — *AllNet Company* (01/2024 – 12/2024)  
-> Built and maintained company websites and developed a **custom chatbot** leveraging **LLaMA 3** and NLP pipelines.
-
-**Full-Stack Developer Intern** — *AllNet Company* (06/2023 – 08/2023)  
-> Developed a **newsletter web app** integrating frontend (React) and backend (Node.js) services.
-
----
 
 ### 🧩 Projects
 
@@ -66,7 +55,7 @@
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=yassinSedki&show_icons=true&theme=tokyonight&hide_border=true" />
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinSedki&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
