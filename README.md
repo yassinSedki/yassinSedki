@@ -16,19 +16,7 @@
 🧩 Experienced in building **RAG pipelines**, **multi-agent systems**, and **scalable backend architectures**.  
 🚀 Seeking a **full-time AI Engineer position** to design, deploy, and optimize production-grade AI systems.
 
----
 
-
-
-### 🧩 Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🧠 [Document Chatbot Assistant](https://github.com/yassinSedki/document_chatbot_assistant) | Context-aware RAG chatbot for PDF Q&A using LangChain, HuggingFace API, and FAISS. | LangChain, FAISS, HuggingFace |
-| 💼 [AI-Powered Job Recommendation System](https://github.com/yassinSedki/AI-powered-job-recommendation-system) | Embedding-based web app for personalized job matching and recommendation. | Python, Flask, Embeddings |
-| 💰 [Expense Tracker](https://github.com/yassinSedki/Expense_Tracker) | Full-stack web app for tracking income, expenses, and budgets. | ASP.NET Core MVC, SQL Server |
-
----
 
 ### 🧠 Certifications
 
@@ -50,21 +38,13 @@
 **DevOps:** `GitLab CI/CD` · `Docker` · `Linux`  
 **Principles:** `OOP` · `Design Patterns` · `Agile/Scrum`
 
----
 
-### 📊 GitHub Insights
-
-<p align="center">
-  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yassinSedki&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ### 🌍 Let's Connect
 
 💬 Open for **AI Engineer**, **Software Engineer**, or **Research Intern** opportunities.  
 If you’re building something with **AI, LLMs, or RAG**, I’d love to contribute or collaborate!
+
 
 <p align="center">
   <a href="mailto:sedkiyassin19@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
