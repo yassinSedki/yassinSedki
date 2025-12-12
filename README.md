@@ -32,7 +32,7 @@
 
 **AI/ML:** `Deep Learning` · `LLMs` · `NLP` · `RAG`  
 **Frameworks:** `LangChain` · `LangGraph` · `PyTorch` · `TensorFlow`  
-**Backend:** `Flask` · `ASP.NET Core` · `Node.js`  
+**Backend:** `FastAPI` · `ASP.NET Core` · `Node.js`  
 **Frontend:** `React` · `Next.js`  
 **Databases:** `ChromaDB` · `MongoDB` · `MySQL`  
 **DevOps:** `GitLab CI/CD` · `Docker` · `Linux`  
